@@ -47,4 +47,5 @@ Next step is the creation of tables to run such queries. Remember, with Apache C
 Afterwards a SELECT-statement is given for the required query conditions given by Sparkify to validate our tables creation.
 
 ### Summary
-For implementation details see the coding of the projects jupyter notebook.
+- For implementation details see the coding of the projects jupyter notebook.
+- This project coding is released under the [MIT license](https://github.com/IloBe/Music_DataModelling_with_ApacheCassandra/blob/main/LICENSE).
